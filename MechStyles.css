@@ -1,0 +1,51 @@
+* {
+    margin-top: 3px;
+    margin-left: 3px;
+    background-color: seashell;
+
+}
+h1 { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: tomato;
+    background-color: rgb(255, 232, 231);
+}
+nav {
+    text-align: center;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div {
+    background-color: lightsalmon
+    ; border-radius: 0%;
+    border-color: rgb(218, 112, 214);
+    border-width: 12px ;
+    padding: auto;
+    margin: 230px;
+
+}
+aside {
+    outline-color: khaki;
+}
+article {
+    background-color: peru;
+    
+}
+
+
+button {
+    font-family: sans-serif;
+    background-color: palegreen;
+    border-radius: 5%;
+    font-size: 16pt
+}
+body {
+    grid-template-columns: max-content;
+    margin-top: 3cm;
+    margin-left: 3cm;
+
+}
+footer {
+    background-color: papayawhip;
+
+}
