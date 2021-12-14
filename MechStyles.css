@@ -1,0 +1,23 @@
+* {
+    margin: 8px;
+    padding: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+   body {
+    background-color: lightpink;
+    padding: 1px;
+   }
+
+   h1 {
+       color: orchid;
+       font-style: oblique;
+       resize: var(2);
+   }
+   nav {
+       block-size: 30px;
+       background-color: tomato;
+       color: whitesmoke;
+       border-style: groove;
+   }
+   
