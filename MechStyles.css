@@ -1,9 +1,9 @@
 * {
-    margin-top: 3px;
-    margin-left: 3px;
-    background-color: seashell;
+     margin: 8px;
+    padding: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
 
-}
 h1 { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     color: tomato;
@@ -24,6 +24,13 @@ div {
     margin: 230px;
 
 }
+   nav {
+       block-size: 30px;
+       background-color: tomato;
+       color: whitesmoke;
+       border-style: groove;
+   }
+
 aside {
     outline-color: khaki;
 }
