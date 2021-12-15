@@ -2,47 +2,55 @@
      margin: 8px;
     padding: 2px;
     font-family: Arial, Helvetica, sans-serif;
-   }
-
+       }
+       body {
+        background-color: sandybrown;
+       }
+#titulazo {
+    font-family: 'Gwendolyn', cursive;
+    color: sandybrown;
+    font-size: 50pt;
+    -ms-text-kashida-space: 10% ;
+}
+a {
+    color:snow
+}
 h1 { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     color: tomato;
     background-color: rgb(255, 232, 231);
 }
-nav {
-    text-align: center;
-}
+
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 div {
     background-color: lightsalmon
     ; border-radius: 0%;
-    border-color: rgb(218, 112, 214);
+    border-color: rgb(173, 50, 13);
     border-width: 12px ;
     padding: auto;
     margin: 230px;
 
 }
-   nav {
+   Nav {
        block-size: 30px;
-       background-color: tomato;
-       color: whitesmoke;
-       border-style: groove;
-   }
+       color: rgb(255, 178, 173);
+       text-align: center;   
+    }
 
 aside {
     outline-color: khaki;
 }
 article {
-    background-color: peru;
+    color: linen;
     
 }
 
 
 button {
     font-family: sans-serif;
-    background-color: palegreen;
+    background-color: rgb(233, 134, 104);
     border-radius: 5%;
     font-size: 16pt
 }
@@ -53,6 +61,15 @@ body {
 
 }
 footer {
-    background-color: papayawhip;
+    background-color: rgb(255, 202, 177);
 
 }
+
+.asunto {
+    color: rgb(221, 70, 108);
+}
+
+p.destacar {
+    color: rgb(236, 85, 65);
+}
+
