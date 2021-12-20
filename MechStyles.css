@@ -64,6 +64,10 @@ footer {
     background-color: rgb(255, 202, 177);
 
 }
+p.destacar:hover {
+    color: magenta;
+    font-size: 4em;
+}
 
 .asunto {
     color: rgb(221, 70, 108);
